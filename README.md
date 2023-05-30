@@ -8,7 +8,7 @@ for older versions please refer to this repo Devoskar/Mi-Gaming-Box-1.3.0.822-En
 
 `C:\Program Files (x86)\Timi Personal Computing\GamingBox\1.5.0.882\dist\`
 
-or to a different path if the program was installed in a different directory (if there is no folder in the path, please make sure Mi Gaming Box version 1.3.0.822 is installed)
+or to a different path if the program was installed in a different directory (if there is no folder in the path, please make sure Mi Gaming Box version 1.5.0.882 is installed)
 
 3) Launch Mi Gaming Box
 4) Share your experiences on https://www.reddit.com/r/Xiaomi/
